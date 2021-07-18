@@ -3,6 +3,7 @@
 ## PyBank Financial Anaylsis
 
 Includes Python Script(main-bank.py) located in the PyBank folder that analyzes budget_data.csv to record:
+
   -The total number of months included in the dataset
   
   -The net total amount of "Profit/Losses" over the entire period
@@ -24,6 +25,7 @@ main-bank.py was tested using jupyter notebooks which explains the .ipynb files 
 ## PyPoll Election Analysis
 
 Includes Python script(main.py) located in the PyPoll folder that analyzes election_data.csv to record:
+
   -The total number of votes cast
   
   -A complete list of candidates who received votes
